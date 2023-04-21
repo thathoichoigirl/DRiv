@@ -1,3 +1,45 @@
+<p align=center> 
+<image src="https://user-images.githubusercontent.com/91699007/233698255-2202b920-4b67-4ebc-a8cf-4571f44205bf.png" width = 150 >
+</p>
+
+
+
+
+
+---
+<h1 align="center">DRiv</h1>
+<h4 align="center">Decentralised Faucet to claim 10,000 free tokens, transfer and check account token balance</h4>
+<p align="center">
+<img src="https://img.shields.io/github/stars/thathoichoigirl/Screening_Task_EngineerHUB"/>
+<img src="https://img.shields.io/github/forks/thathoichoigirl/Screening_Task_EngineerHUB"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</p>
+
+## Cover 🥰
+![image](https://user-images.githubusercontent.com/91699007/233699771-1cc46e3d-cdc4-488f-b7e5-e79c0a0cc063.png)
+
+## Video Demo 🎥
+https://user-images.githubusercontent.com/91699007/233700110-d83f6bbd-7653-405e-9a2c-2661e2983520.mp4
+
+
+
+## Features ✨
+Crypto tokens can solve a variety of problems, depending on the specific use case and the design of the token. In general, crypto tokens are digital assets that are created and managed using blockchain technology, which enables them to be easily transferred, traded, and verified without the need for intermediaries like banks or other financial institutions.<br><br>
+
+Here are some common problems that RIVity(RIV) tokens can solve:<br><br>
+
+Facilitating decentralized transactions: RIV tokens can enable peer-to-peer transactions without the need for intermediaries, which can reduce transaction costs, increase speed, and provide greater privacy and security.<br><br>
+
+Creating digital scarcity: By using blockchain technology to create a limited supply of tokens, issuers can create digital scarcity, which can increase the value and desirability of the tokens.<br><br>
+
+Providing incentives for network participation: RIV tokens are designed to incentivize users to participate in a network by offering rewards or other benefits for contributing computing power, storage, or other resources. <br><br>
+
+Enabling programmable money: RIV tokens can be designed to have programmable functionality, which means that they can be used to automate complex financial transactions and execute smart contracts.<br><br>
+
+Providing fundraising mechanisms: RIV tokens are used as a means of raising capital for startups or other projects, either through initial coin offerings (ICOs) or other fundraising mechanisms.<br><br>
+
+Overall, RIV tokens provide a powerful new tool for creating decentralized digital assets and networks that can solve a variety of problems in a wide range of industries and use cases.<br><br>
+
 # Check your Balance
 
 1. Find out your principal id:
